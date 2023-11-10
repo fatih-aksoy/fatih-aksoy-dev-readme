@@ -59,4 +59,4 @@
 
 <br>
 
-[Fatih-Aksoy-github-repo]([https://github.com/fatih-aksoy](https://github.com/fatih-aksoy?tab=repositories&q=&type=&language=&sort=stargazers)https://github.com/fatih-aksoy?tab=repositories&q=&type=&language=&sort=stargazers)
+[Fatih-Aksoy-github-repo](https://github.com/fatih-aksoy?tab=repositories&q=&type=&language=&sort=stargazers)
