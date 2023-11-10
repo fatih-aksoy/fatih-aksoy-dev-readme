@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih Aksoy</h1>
-<h3 align="center">Front end Developer At Ecombooster🌟.</h3>
+<h3 align="center">Front end Developer at Ecombooster🌟.</h3>
 
 <br>
 
