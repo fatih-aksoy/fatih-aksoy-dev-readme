@@ -5,7 +5,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Fatih-pw" /></p>
 
-- 🌱 I’m currently learning Web Development and doing internship at Ecombooster,
+- 🌱 I’m a passionate Front end Developer and doing internship at Ecombooster,
 
 - 📫 How to reach me **fatih.aksoy1988@gmail.com**
 
