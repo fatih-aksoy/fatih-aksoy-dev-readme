@@ -7,7 +7,7 @@
 
 - 🌱 I’m a passionate Front end Developer and doing internship at Ecombooster,
 
-- 🌱 This is my Portfolio page  <a href="https://fatih-aksoy-portfolio.netlify.app/" target="blank">Fatih Aksoy</a>
+- 🌱 This is my Portfolio page  <a href="https://fatih-dev-portfolio.netlify.app/" target="blank">Fatih Aksoy</a>
 
 - 📫 How to reach me **fatih.aksoy1988@gmail.com**
 
