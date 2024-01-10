@@ -5,7 +5,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Fatih-pw" /></p>
 
-- 🌱 I’m a passionate Front end Developer and doing internship at Ecombooster,
+- 🌱 I’m a passionate Front end Developer.,
 
 - 🌱 This is my Portfolio page  <a href="https://fatih-dev-portfolio.netlify.app/" target="blank">Fatih Aksoy</a>
 
